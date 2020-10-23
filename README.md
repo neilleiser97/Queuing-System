@@ -1,2 +1,5 @@
 # Queuing-System
-Project which replicates an online queuing system using tkinter
+
+This project implements a Graphical User Interface (GUI) representing an online application system using a model-view-controller (MVC) approach 
+
+
